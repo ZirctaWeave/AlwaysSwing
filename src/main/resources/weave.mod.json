@@ -1,0 +1,7 @@
+{
+  "name": "Always Swing",
+  "modId": "AlwaysSwing",
+  "mixinConfigs": [
+    "alwaysswing.mixins.json"
+  ]
+}
